@@ -7,4 +7,8 @@ ref: https://0xmahmoudjo0.medium.com/how-i-found-multiple-sql-injection-with-ffu
 
 ![image](https://user-images.githubusercontent.com/37910997/158051756-67425eaa-82e4-4c06-8cbc-f74e4ae01e25.png)
 
+```
+waybackurls => https://github.com/tomnomnom/waybackurls
+uro => https://github.com/s0md3v/uro
+```
 
